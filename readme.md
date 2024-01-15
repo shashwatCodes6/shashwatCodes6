@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shashwatsaxena0612@gmail.com**
 
-- ⚡ Fun fact **I am from Delhi**
+- ⚡ Fun fact **I play Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
