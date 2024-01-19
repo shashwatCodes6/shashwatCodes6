@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Chess App](https://github.com/shashwatCodes6/s-chess)
 
-- 🌱 I’m currently learning **MERN stack, PyTorch and Tensorflow.**
+- 🌱 I’m currently learning **MERN stack.**
 
 - 💬 Ask me about **React, JavaScript**
 
