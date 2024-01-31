@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/24shashwat_" target="blank"><img src="https://img.shields.io/twitter/follow/24shashwat_?logo=twitter&style=for-the-badge" alt="24shashwat_" /></a> </p>
 
-- 🔭 I’m currently working on [Chess App](https://github.com/shashwatCodes6/s-chess)
-
-- 🌱 I’m currently learning **MERN stack.**
-
 - 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **shashwatsaxena0612@gmail.com**
